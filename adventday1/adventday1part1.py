@@ -1,4 +1,4 @@
-data = open('advent1.txt', 'r')
+data = open('adventday1.txt', 'r')
 lines = data.readlines()
 
 answer = 0
